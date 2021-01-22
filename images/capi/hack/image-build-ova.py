@@ -375,8 +375,8 @@ ${EULA}
       <Info>Information about the installed software</Info>
       <Product>${OS_NAME} and Kubernetes ${KUBERNETES_SEMVER}</Product>
       <Vendor>VMware Inc.</Vendor>
-      <Version>kube-${KUBERNETES_SEMVER}</Version>
-      <FullVersion>kube-${KUBERNETES_SEMVER}</FullVersion>
+      <Version>v1.17.11+vmware.1-tkg.2.ad3d374</Version>
+      <FullVersion>v1.17.11+vmware.1-tkg.2.ad3d374</FullVersion>
       <VendorUrl>https://vmware.com</VendorUrl>
       <Category>Cluster API Provider (CAPI)</Category>
       <Property ovf:userConfigurable="false" ovf:value="${BUILD_TIMESTAMP}" ovf:type="string" ovf:key="BUILD_TIMESTAMP"/>
